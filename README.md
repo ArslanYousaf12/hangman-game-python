@@ -50,5 +50,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## Contact
-For any inquiries, reach out to me at [Github (https://github.com/ArslanYousaf12)].
+For any inquiries, reach out to me at [Github](https://github.com/ArslanYousaf12).
 
