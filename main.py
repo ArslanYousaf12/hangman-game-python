@@ -30,7 +30,7 @@ guess = input("Guess a letter: ").lower()
 #         print("Wrong")
 #     letter_index += 1
 chosen_word_len = len(chosen_word)
-for num in range(0, chosen_word_len - 1):
+for num in range(0, chosen_word_len):
    if chosen_word[num] == guess:
        display[num] = guess
    else:
